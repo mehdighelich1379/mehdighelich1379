@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋, I'm Mehdi Ghelich</h2>
 <p align="center">
-  <em> Data Scientist | ML/DL Enthusiast | Electronics Engineer</em>
+  <em>Data Scientist | Deep Learning Enthusiast | Electronics Engineer</em>
 </p>
 
 <p align="center">
@@ -23,27 +23,28 @@
 
 ---
 
-## 🧠 Machine Learning Skills
+## 🧠 Machine Learning & Deep Learning Skills
 
 - Supervised & Unsupervised Learning  
 - Model Evaluation: Accuracy, Precision, Recall, AUC  
 - Data Balancing: SMOTE, Class Weights  
 - Dimensionality Reduction: PCA  
 - Outlier Detection: LOF  
-- Pipeline Design & Feature Engineering
+- Pipeline Design & Feature Engineering  
 
-### 📌 Algorithms
-- Classification: SVM, Logistic Regression, Decision Tree, Random Forest, CatBoost, XGBoost, LightGBM  
-- Clustering: KMeans, DBSCAN
+### 📌 Algorithms & Techniques
+- **Classification**: SVM, Logistic Regression, Decision Tree, Random Forest, CatBoost, XGBoost, LightGBM  
+- **Clustering**: KMeans, DBSCAN  
+- **Deep Learning**: CNN (used in medical image classification projects such as chest X-rays, kidney stones, and multi-class eye diseases)
 
 ---
 
-## 🧬 Deep Learning Skills
+## 🧬 Currently Learning
 
-- CNN, LSTM, GRU, SimpleRNN  
-- Transformers (Basic)  
-- Data Augmentation, Regularization, Early Stopping  
-- Frameworks: TensorFlow, Keras
+- Deep Learning (more in-depth: architectures, optimization, and regularization)
+- Sequence Models: LSTM, GRU, SimpleRNN  
+- Transformers & Attention Mechanisms  
+- **Deployment of AI Projects**: End-to-end workflows including model packaging, Streamlit apps, Docker, and cloud deployment (e.g. Heroku, AWS)
 
 ---
 
