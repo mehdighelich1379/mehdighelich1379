@@ -3,10 +3,10 @@
   <em>Data Scientist | Deep Learning Enthusiast | Electronics Engineer</em>
 </p>
 
-<p align="center">
-  <img src="https://stockcake.com/i/nighttime-coding-session-in-moody-lighting-in-cozy-bedroom-office-setup-1203799" width="250" alt="Nighttime coding session in moody lighting"/>
-</p>
 
+<p align="center">
+  <img src="LINK_OF_CHOSEN_IMAGE" width="250" alt="Night coder with dual monitors"/>
+</p>
 ---
 
 ## 🛠️ Skills & Tools
