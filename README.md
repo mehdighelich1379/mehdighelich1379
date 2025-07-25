@@ -1,6 +1,13 @@
-<h2 align="center">Hi there 👋, I'm Mehdi Ghelich</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Hi+there+%2C+I'm+Mehdi+Ghelich" alt="Typing SVG" />
+</p>
+
 <p align="center">
   <em>Data Scientist | Deep Learning Enthusiast | Electronics Engineer</em>
+</p>
+
+<p align="center">
+  <img src="assets/coding-late-night-stockcake.jpg" width="250" alt="Late night coding in dark room"/>
 </p>
 
 <p align="center">
