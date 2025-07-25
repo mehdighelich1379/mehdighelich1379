@@ -10,9 +10,6 @@
   <img src="assets/coding-late-night-stockcake.jpg" width="250" alt="Late night coding in dark room"/>
 </p>
 
-<p align="center">
-  <img src="assets/coding-late-night-stockcake.jpg" width="250" alt="Late night coding in dark room"/>
-</p>
 ---
 
 ## 🛠️ Skills & Tools
