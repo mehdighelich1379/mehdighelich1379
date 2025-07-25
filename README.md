@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋, I'm Mehdi Ghelich</h2>
 <p align="center">
-  <em>Junior Data Scientist | ML/DL Enthusiast | Electronics Engineer</em>
+  <em> Data Scientist | ML/DL Enthusiast | Electronics Engineer</em>
 </p>
 
 <p align="center">
