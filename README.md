@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250" alt="Coding animation"/>
+  <img src="https://stockcake.com/i/nighttime-coding-session-in-moody-lighting-in-cozy-bedroom-office-setup-1203799" width="250" alt="Nighttime coding session in moody lighting"/>
 </p>
 
 ---
