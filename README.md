@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/mehdighelich1379?tab=followers">
-    <img src="https://img.shields.io/badge/Follow-grey?style=for-the-badge&logo=github&logoColor=white" alt="Follow Mehdi on GitHub"/>
+    <img src="https://img.shields.io/badge/Follow-Mehdi%20Ghelich-c0c0c0?style=for-the-badge&logo=github&logoColor=white" alt="Follow Mehdi on GitHub"/>
   </a>
 </p>
 
