@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://stockcake.imgix.net/images/1070350/thumb-coding-late-night_1070350_939129.jpg?auto=compress&fit=max&ixlib=js-3.3.0&s=6a15e72cc4d9cf88433a6f0f5e58fc63" width="250" alt="Late night coding in dark room"/>
+  <img src="assets/coding-late-night-stockcake.jpg" width="250" alt="Late night coding in dark room"/>
 </p>
 ---
 
