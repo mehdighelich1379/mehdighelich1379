@@ -10,6 +10,12 @@
   <img src="assets/coding-late-night-stockcake.jpg" width="250" alt="Late night coding in dark room"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/mehdighelich1379?tab=followers">
+    <img src="https://img.shields.io/badge/Follow-grey?style=for-the-badge&logo=github&logoColor=white" alt="Follow Mehdi on GitHub"/>
+  </a>
+</p>
+
 ---
 
 ## 🛠️ Skills & Tools
