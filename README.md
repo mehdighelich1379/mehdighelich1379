@@ -18,13 +18,6 @@
 
 ## 📌 Pinned Projects
 
-
-
-
-
-
-
-
 <div align="center">
 
   <a href="https://github.com/mehdighelich1379/Smart-Fraud-Detection">
