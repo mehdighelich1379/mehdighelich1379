@@ -15,6 +15,35 @@
     <img src="https://img.shields.io/badge/Follow-Mehdi%20Ghelich-c0c0c0?style=for-the-badge&logo=github&logoColor=white" alt="Follow Mehdi on GitHub"/>
   </a>
 </p>
+---
+
+## 📌 Pinned Projects
+
+<div align="center">
+
+  <a href="https://github.com/mehdighelich1379/Smart-Fraud-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehdighelich1379&repo=Smart-Fraud-Detection&theme=radical" />
+  </a>
+  <a href="https://github.com/mehdighelich1379/insurAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehdighelich1379&repo=insurAI&theme=radical" />
+  </a>
+
+  <a href="https://github.com/mehdighelich1379/churn-prediction-ml-dl">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehdighelich1379&repo=churn-prediction-ml-dl&theme=radical" />
+  </a>
+  <a href="https://github.com/mehdighelich1379/Heart_Disease">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehdighelich1379&repo=Heart_Disease&theme=radical" />
+  </a>
+
+  <a href="https://github.com/mehdighelich1379/OCT-Retinal-Disease-Detection-CNN">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehdighelich1379&repo=OCT-Retinal-Disease-Detection-CNN&theme=radical" />
+  </a>
+  <a href="https://github.com/mehdighelich1379/Chest-Xray-Pneumonia-Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehdighelich1379&repo=Chest-Xray-Pneumonia-Prediction&theme=radical" />
+  </a>
+
+</div>
+
 
 ---
 
