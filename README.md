@@ -50,10 +50,16 @@
 
 ## 🧬 Currently Learning
 
-- Deep Learning (more in-depth: architectures, optimization, and regularization)
-- Sequence Models: LSTM, GRU, SimpleRNN  
-- Transformers & Attention Mechanisms  
-- **Deployment of AI Projects**: End-to-end workflows including model packaging, Streamlit apps, Docker, and cloud deployment (e.g. Heroku, AWS)
+- **Deep Learning** → Advanced architectures, optimization techniques, and regularization strategies.  
+- **Sequence Models** → LSTM, GRU, and RNNs for time-series and NLP tasks.  
+- **Transformers & Attention** → Understanding BERT, GPT-style models, and modern attention mechanisms.  
+- **MLOps & Deployment** →  
+  - Building **end-to-end pipelines** for ML/AI projects.  
+  - Serving models via **FastAPI** & **Flask**.  
+  - Containerization with **Docker**.  
+  - Deployment on cloud platforms (**AWS, GCP, Azure, Heroku**).  
+  - Interactive dashboards with **Streamlit**.  
+  - Experiment tracking & CI/CD best practices for production-ready AI systems.  
 
 ---
 
