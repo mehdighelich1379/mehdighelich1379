@@ -45,32 +45,51 @@
 
 ## 🧠 Machine Learning & Deep Learning Skills
 
-- Supervised & Unsupervised Learning  
-- Model Evaluation: Accuracy, Precision, Recall, AUC  
-- Data Balancing: SMOTE, Class Weights  
-- Dimensionality Reduction: PCA  
-- Outlier Detection: LOF  
-- Pipeline Design & Feature Engineering  
+- **Core Expertise:** Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation & Optimization  
+- **Model Validation:**  
+  Cross-Validation, Confusion Matrix, ROC–AUC, Precision–Recall Analysis,  
+  and Regression Metrics including MAE, MSE, RMSE, and R² Score  
+- **Data Handling:** Preprocessing, Scaling, Encoding, Imbalanced Data Treatment (SMOTE, Class Weights)  
+- **Dimensionality Reduction & Outlier Detection:** PCA, Isolation Forest, Local Outlier Factor (LOF)  
+- **Modeling Pipelines:** Automated ML workflows with Scikit-learn Pipelines & Custom Transformers  
+- **Deep Learning:** CNNs for medical imaging, Sequential & Transfer Learning with TensorFlow/Keras  
+
 
 ### 📌 Algorithms & Techniques
-- **Classification**: SVM, Logistic Regression, Decision Tree, Random Forest, CatBoost, XGBoost, LightGBM  
-- **Clustering**: KMeans, DBSCAN  
-- **Deep Learning**: CNN (used in medical image classification projects such as chest X-rays, kidney stones, and multi-class eye diseases)
+
+- **Supervised Learning:**  
+  Linear & Logistic Regression, K-Nearest Neighbors (KNN),  
+  Support Vector Machine (SVM), Decision Tree, Random Forest,  
+  CatBoost, XGBoost, LightGBM  
+
+- **Unsupervised Learning (Clustering):**  
+  K-Means, DBSCAN  
+
+- **Deep Learning:**  
+  CNNs for medical image classification (chest X-rays, kidney stones, multi-class eye diseases),  
+  Transfer Learning & Fine-Tuning with TensorFlow/Keras  
+
+- **MLOps & Deployment:**  
+  Model serving with **FastAPI**, containerization using **Docker**,  
+  and CI/CD pipeline design for automated deployment and version control  
+
+
 
 ---
 
 ## 🧬 Currently Learning
 
-- **Deep Learning** → Advanced architectures, optimization techniques, and regularization strategies.  
-- **Sequence Models** → LSTM, GRU, and RNNs for time-series and NLP tasks.  
-- **Transformers & Attention** → Understanding BERT, GPT-style models, and modern attention mechanisms.  
-- **MLOps & Deployment** →  
-  - Building **end-to-end pipelines** for ML/AI projects.  
-  - Serving models via **FastAPI** & **Flask**.  
-  - Containerization with **Docker**.  
-  - Deployment on cloud platforms (**AWS, GCP, Azure, Heroku**).  
-  - Interactive dashboards with **Streamlit**.  
-  - Experiment tracking & CI/CD best practices for production-ready AI systems.  
+- **MLOps & Deployment:**  
+  Building end-to-end ML pipelines with **FastAPI** and **Docker**,  
+  integrating CI/CD workflows for automated training and deployment,  
+  and deploying scalable models on **AWS**, **GCP**, or **Heroku**.  
+
+- **Experiment Tracking & Model Management:**  
+  Version control for datasets and models, experiment tracking, and monitoring for production-ready AI systems.  
+
+- **Large Language Models (LLMs):**  
+  Exploring transformer-based architectures (GPT, LLaMA, BERT), fine-tuning and serving LLMs for NLP and domain-specific tasks,  
+  and integrating them into scalable MLOps pipelines.  
 
 ---
 ## 📈 GitHub Stats
