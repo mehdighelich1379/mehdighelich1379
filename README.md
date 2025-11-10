@@ -21,11 +21,17 @@
 ## 🚀 Live ML Applications
 
 🔹 [Loan App (HuggingFace Space)](https://mehdighelich-loan-ml-app.hf.space/)  
+End-to-end ML pipeline for **loan risk prediction**, featuring **model explainability with SHAP** for decision transparency.  
+
 🔹 [LoanIQ – Credit Risk Prediction](https://loaniq-production.up.railway.app/ui)  
-🔹 [Churn Prediction App](https://churn-prediction-production-6108.up.railway.app/)  
-🔹 [Smart Fraud Detection](https://smart-fraud-detection-mehdighelich.streamlit.app/)  
-🔹 [Heart Disease Prediction](https://heartdisease-mehdighelich.streamlit.app/)  
-🔹 [Brain Tumor Detection (Medical AI)](https://brain-mask-detection-with-ai-mehdighelich.streamlit.app)
+
+🔹 [Churn Prediction App](https://churn-prediction-production-6108.up.railway.app/) — Customer retention analysis using ML classification  
+
+🔹 [Smart Fraud Detection](https://smart-fraud-detection-mehdighelich.streamlit.app/) — anomaly detection  
+
+🔹 [Heart Disease Prediction](https://heartdisease-mehdighelich.streamlit.app/) — Medical diagnosis using supervised learning  
+
+🔹 [Brain Tumor Detection (Medical AI)](https://brain-mask-detection-with-ai-mehdighelich.streamlit.app) — CNN-based medical imaging model  
 
 ---
 
