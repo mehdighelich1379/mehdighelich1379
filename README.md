@@ -73,25 +73,11 @@
   - Experiment tracking & CI/CD best practices for production-ready AI systems.  
 
 ---
-[
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mehdighelich1379&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdighelich1379&layout=compact&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mehdighelich1379&theme=tokyonight&hide_border=true" 
-    height="180"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehdighelich1379&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdighelich1379&theme=radical" width="400"/>
 </p>
 
 ---
@@ -105,4 +91,3 @@
 </p>
 
 <p align="center">🚀 Learning daily, building constantly.</p>
-](https://www.linkedin.com/in/mehdighelich)
