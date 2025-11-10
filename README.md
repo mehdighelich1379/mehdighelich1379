@@ -73,7 +73,7 @@
   - Experiment tracking & CI/CD best practices for production-ready AI systems.  
 
 ---
-
+[
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -105,3 +105,4 @@
 </p>
 
 <p align="center">🚀 Learning daily, building constantly.</p>
+](https://www.linkedin.com/in/mehdighelich)
