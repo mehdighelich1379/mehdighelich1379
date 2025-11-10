@@ -18,6 +18,17 @@
 
 ---
 
+## 🚀 Live ML Applications
+
+🔹 [Loan App (HuggingFace Space)](https://mehdighelich-loan-ml-app.hf.space/)  
+🔹 [LoanIQ – Credit Risk Prediction](https://loaniq-production.up.railway.app/ui)  
+🔹 [Churn Prediction App](https://churn-prediction-production-6108.up.railway.app/)  
+🔹 [Smart Fraud Detection](https://smart-fraud-detection-mehdighelich.streamlit.app/)  
+🔹 [Heart Disease Prediction](https://heartdisease-mehdighelich.streamlit.app/)  
+🔹 [Brain Tumor Detection (Medical AI)](https://brain-mask-detection-with-ai-mehdighelich.streamlit.app)
+
+---
+
 ## 🛠️ Skills & Tools
 
 <p align="center">
@@ -66,8 +77,21 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehdighelich1379&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdighelich1379&theme=radical" width="400"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mehdighelich1379&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdighelich1379&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mehdighelich1379&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
 </p>
 
 ---
