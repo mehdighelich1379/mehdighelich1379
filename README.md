@@ -56,7 +56,6 @@ Persian-first NLP projects with production-friendly structure and reproducible p
   <!-- ML / DL -->
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white"/>
 
   <!-- NLP / LLM -->
   <img src="https://img.shields.io/badge/Transformers-HuggingFace-FFD21E?logo=huggingface&logoColor=black"/>
