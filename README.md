@@ -33,27 +33,6 @@ End-to-end ML pipeline for **loan risk prediction**, featuring **model explainab
 
 🔹 [Brain Tumor Detection (Medical AI)](https://brain-mask-detection-with-ai-mehdighelich.streamlit.app) — CNN-based medical imaging model  
 
-## 🚀 Live ML Applications
-Interactive, end-to-end ML apps with clean pipelines, evaluation, and explainability.
-
-- **Loan App (HuggingFace Space)**  
-  End-to-end credit risk prediction with **SHAP explainability** for transparent decisions.
-
-- **LoanIQ – Credit Risk Prediction**  
-  Practical scoring pipeline for credit/loan risk estimation.
-
-- **Churn Prediction App**  
-  Customer retention analysis using supervised classification.
-
-- **Smart Fraud Detection**  
-  Fraud/anomaly detection pipeline for suspicious behavior identification.
-
-- **Heart Disease Prediction**  
-  Medical risk prediction using classical ML classification.
-
-- **Brain Tumor Detection (Medical AI)**  
-  CNN-based medical imaging model for tumor detection.
-
 ## 🧠 Persian NLP & LLM Systems (Focused Projects)
 Persian-first NLP projects with production-friendly structure and reproducible pipelines.
 
