@@ -48,15 +48,41 @@ Persian-first NLP projects with production-friendly structure and reproducible p
 ---
 
 ## 🛠️ Skills & Tools
-
 <p align="center">
+  <!-- Core -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white"/>
+
+  <!-- ML / DL -->
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white"/>
+
+  <!-- NLP / LLM -->
+  <img src="https://img.shields.io/badge/Transformers-HuggingFace-FFD21E?logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LLM-NLP-4B8BBE"/>
+  <img src="https://img.shields.io/badge/RAG-FAISS-009688"/>
+
+  <!-- Data -->
+  <img src="https://img.shields.io/badge/Tabular%20Data-ML-1F6FEB"/>
+  <img src="https://img.shields.io/badge/Text%20Data-NLP-0EA5E9"/>
+
+  <!-- NLP / LLM Tasks -->
+  <img src="https://img.shields.io/badge/RAG-LLM%20%2B%20Retrieval-111827"/>
+  <img src="https://img.shields.io/badge/NER-NLP-2E8B57"/>
+  <img src="https://img.shields.io/badge/Text%20Summarization-NLP-6A5ACD"/>
+  <img src="https://img.shields.io/badge/Text%20Classification-NLP-8A2BE2"/>
+  
+  <!-- Tabular ML Tasks -->
+  <img src="https://img.shields.io/badge/Tabular%20Classification-ML-1F6FEB"/>
+  <img src="https://img.shields.io/badge/Tabular%20Regression-ML-2563EB"/>
+
+
+  <!-- Backend / Deployment -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white"/>
 </p>
 
 ---
