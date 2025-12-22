@@ -61,7 +61,6 @@ Persian-first NLP projects with production-friendly structure and reproducible p
   <!-- NLP / LLM -->
   <img src="https://img.shields.io/badge/Transformers-HuggingFace-FFD21E?logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/LLM-NLP-4B8BBE"/>
-  <img src="https://img.shields.io/badge/RAG-FAISS-009688"/>
 
   <!-- Data -->
   <img src="https://img.shields.io/badge/Tabular%20Data-ML-1F6FEB"/>
