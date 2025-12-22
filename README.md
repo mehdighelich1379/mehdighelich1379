@@ -84,49 +84,10 @@ Persian-first NLP projects with production-friendly structure and reproducible p
 
 ---
 
-## 🧠 Machine Learning & Deep Learning Skills
-
-- **Core Expertise:** Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation & Optimization  
-- **Model Validation:**  
-  Cross-Validation, Confusion Matrix, ROC–AUC, Precision–Recall Analysis,  
-  and Regression Metrics including MAE, MSE, RMSE, and R² Score  
-- **Data Handling:** Preprocessing, Scaling, Encoding, Imbalanced Data Treatment (SMOTE, Class Weights)  
-- **Dimensionality Reduction & Outlier Detection:** PCA, Isolation Forest, Local Outlier Factor (LOF)  
-- **Modeling Pipelines:** Automated ML workflows with Scikit-learn Pipelines & Custom Transformers  
-- **Deep Learning:** CNNs for medical imaging, Sequential & Transfer Learning with TensorFlow/Keras  
-
-
-### 📌 Algorithms & Techniques
-
-- **Supervised Learning:**  
-  Linear & Logistic Regression, K-Nearest Neighbors (KNN),  
-  Support Vector Machine (SVM), Decision Tree, Random Forest,  
-  CatBoost, XGBoost, LightGBM  
-
-- **Unsupervised Learning (Clustering):**  
-  K-Means, DBSCAN  
-
-- **Deep Learning:**  
-  CNNs for medical image classification (chest X-rays, kidney stones, multi-class eye diseases),  
-  Transfer Learning & Fine-Tuning with TensorFlow/Keras  
-
-- **MLOps & Deployment:**  
-  Model serving with **FastAPI**, containerization using **Docker**,  
-  and CI/CD pipeline design for automated deployment and version control  
-
-
 
 ---
 
 ## 🧬 Currently Learning
-
-- **MLOps & Deployment:**  
-  Building end-to-end ML pipelines with **FastAPI** and **Docker**,  
-  integrating CI/CD workflows for automated training and deployment,  
-  and deploying scalable models on **AWS**, **GCP**, or **Heroku**.  
-
-- **Experiment Tracking & Model Management:**  
-  Version control for datasets and models, experiment tracking, and monitoring for production-ready AI systems.  
 
 - **Large Language Models (LLMs):**  
   Exploring transformer-based architectures (GPT, LLaMA, BERT), fine-tuning and serving LLMs for NLP and domain-specific tasks,  
