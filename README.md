@@ -83,8 +83,7 @@ Persian-first NLP projects with production-friendly structure and reproducible p
 ## 🧬 Currently Learning
 
 - **Large Language Models (LLMs):**  
-  Exploring transformer-based architectures (GPT, LLaMA, BERT), fine-tuning and serving LLMs for NLP and domain-specific tasks,  
-  and integrating them into scalable MLOps pipelines.  
+- LLM fine-tuning, RAG systems, and production LLM serving.
 
 ---
 ## 📈 GitHub Stats
