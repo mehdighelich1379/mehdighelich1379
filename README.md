@@ -33,7 +33,7 @@ End-to-end ML pipeline for **loan risk prediction**, featuring **model explainab
 
 🔹 [Brain Tumor Detection (Medical AI)](https://brain-mask-detection-with-ai-mehdighelich.streamlit.app) — CNN-based medical imaging model  
 
-## 🧠 Persian NLP & LLM Systems (Focused Projects)
+## 🧠 Persian NLP & LLM Systems
 Persian-first NLP projects with production-friendly structure and reproducible pipelines.
 
 - **Persian RAG System (Production-ready)**  
