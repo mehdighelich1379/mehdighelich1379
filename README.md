@@ -51,7 +51,6 @@ Persian-first NLP projects with production-friendly structure and reproducible p
 <p align="center">
   <!-- Core -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white"/>
 
   <!-- ML / DL -->
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white"/>
@@ -59,11 +58,6 @@ Persian-first NLP projects with production-friendly structure and reproducible p
 
   <!-- NLP / LLM -->
   <img src="https://img.shields.io/badge/Transformers-HuggingFace-FFD21E?logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LLM-NLP-4B8BBE"/>
-
-  <!-- Data -->
-  <img src="https://img.shields.io/badge/Tabular%20Data-ML-1F6FEB"/>
-  <img src="https://img.shields.io/badge/Text%20Data-NLP-0EA5E9"/>
 
   <!-- NLP / LLM Tasks -->
   <img src="https://img.shields.io/badge/RAG-LLM%20%2B%20Retrieval-111827"/>
