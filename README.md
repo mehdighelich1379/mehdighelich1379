@@ -51,7 +51,6 @@ Persian-first NLP projects with production-friendly structure and reproducible p
 <p align="center">
   <!-- Core -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white"/>
 
   <!-- ML / DL -->
@@ -77,7 +76,6 @@ Persian-first NLP projects with production-friendly structure and reproducible p
   <!-- Tabular ML Tasks -->
   <img src="https://img.shields.io/badge/Tabular%20Classification-ML-1F6FEB"/>
   <img src="https://img.shields.io/badge/Tabular%20Regression-ML-2563EB"/>
-
 
   <!-- Backend / Deployment -->
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
